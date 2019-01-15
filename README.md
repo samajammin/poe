@@ -1,4 +1,4 @@
-This walkthrough is based on [this Medium](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05) post by Manuel Araoz.
+This walkthrough is based on [this Consensys repo](https://github.com/ConsenSys-Academy/proof-of-existence-exercise), which in turn is based on [this Medium](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05) post by Manuel Araoz.
 
 # What is Proof of Existence?
 
